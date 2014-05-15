@@ -49,7 +49,7 @@
 		<repository>
 			<id>central</id>
 			<name>Maven Central</name>
-			<url>http://repo1.maven.org/maven2/</url>
+			<url>http://search.maven.org/</url>
 			<!-- <url>http://127.0.0.1:8081/nexus/content/repositories/central/</url> -->
 		</repository>
 	</repositories>
